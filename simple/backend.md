@@ -83,7 +83,7 @@ Here you can list the main routes of your API, and what are their expected reque
 ```json
 {
   "username": "fabiopereira",
-  "password": "4444444"
+  "password": "32143214"
 }
 ```
 
@@ -102,7 +102,7 @@ Special thank you for all people that contributed for this project.
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/61896274?v=4" width="100px;" alt="Fabio Pereira Profile Picture"/><br>
+        <img src="https://avatars.githubusercontent.com/u/2698530?v=4" width="100px;" alt="Fabio Pereira Profile Picture"/><br>
         <sub>
           <b>Fabio Pereira</b>
         </sub>
@@ -110,7 +110,7 @@ Special thank you for all people that contributed for this project.
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://t.ctcdn.com.br/n7eZ74KAcU3iYwnQ89-ul9txVxc=/400x400/smart/filters:format(webp)/i490769.jpeg" width="100px;" alt="Elon Musk Picture"/><br>
+        <img src="https://avatars.githubusercontent.com/u/47338871?v=4" width="100px;" alt="Elon Musk Picture"/><br>
         <sub>
           <b>Elon Musk</b>
         </sub>
